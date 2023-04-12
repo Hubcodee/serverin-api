@@ -30,9 +30,11 @@
       It is responsible for launching the security playground Kali-Linux and snort tool enviornment.
 
 # SERVERIN ARCHITECTURE
-    <img src="/serverin-api/blob/main/images/Serverin%20Dashboard.png" title="Architecture">
+![Dashboard](/serverin-api/blob/main/images/Serverin%20Dashboard.png)
+![ServiceStructure](/serverin-api/blob/main/images/Internal%20Serverin%20Service%20Strcuture.png)
+
     
-    https://github.com/Hubcodee/serverin-api/blob/main/images/Internal%20Serverin%20Service%20Strcuture.png
+    
     
 # User Interface
     Serverin Dashboard- https://github.com/Hubcodee/serverin-api/blob/main/images/Serverin%20Dashboard.png
