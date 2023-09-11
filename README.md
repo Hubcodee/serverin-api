@@ -1,3 +1,9 @@
+# Product Introduction
+[Video Link](https://drive.google.com/file/d/1-isEqijjuhaPOzXKcj31RawCnEQA61Uj/view?usp=drive_link)
+
+# Elevator Pitch 
+[Video Link](https://drive.google.com/file/d/1ebo5lS5ljpLdNsHdjmza1MY6EFievqfG/view?usp=drive_link)
+
 # SERVERIN-API
  ServerIn act as Platform as a Service (PaaS)
  It aims to provide computing resources to community on their fingertips. 
